@@ -5,7 +5,7 @@
 
 int main(int argc, const char * argv[]) 
 {
-  SomeClass someClass();
+  SomeClass someClass;
   std::cout << "Hello, World!\n";
   return 0;
 }
